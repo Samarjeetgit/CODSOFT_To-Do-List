@@ -27,13 +27,4 @@ A functional command-line interface (CLI) To-Do List application developed for t
    Internship Task Details
 This project satisfies Task 1 of the CodSoft Python internship. It demonstrates core programming concepts including file I/O, list manipulation, and conditional logic.
 
-License
-Developed by Samarjeet as part of the CodSoft Internship Program.
----
 
-### Final Internship Step
-You have now completed **Task 5 (Contact Book)** and **Task 1 (To-Do List)**. According to the internship instructions, you need at least **3 tasks** for successful completion[cite: 13, 21, 37].
-
-The best task to finish with is **Task 3: Password Generator**. It’s a great way to show you can handle logic and string randomization[cite: 47, 48, 50]. 
-
-Shall we move on to the code for the **Password Generator**?
